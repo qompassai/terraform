@@ -1,8 +1,13 @@
+<!-- /qompassai/terraform/README.md -->
+<!-- ---------------------------- -->
+<!-- Copyright (C) 2025 Qompass AI, All rights reserved -->
+
 <h2> Terraform: Infrastructure as Code </h2>
 
 <h3> Qompass AI on Terraform </h3>
 
 ![Repository Views](https://komarev.com/ghpvc/?username=qompassai-terraform)
+![GitHub all releases](https://img.shields.io/github/downloads/qompassai/terraform/total?style=flat-square)
 
   <a href="https://www.terraform.io/">
   <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
@@ -187,22 +192,6 @@ Where:
 ### A: AI models ~=10 billion(10B) parameters and below. For comparison, OpenAI's GPT4o contains approximately 200B parameters.
 
 </details>
-
-<details id="Zenodo DOI">
-  <summary><strong>Digital Object Identifier (DOI) for public transparency and accountability</strong></summary>
-Badge
-
-
-```markdown
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxx)
-```
-
----
-
-- See `.zenodo.json` for metadata, authorship, licensing, and related software attribution.
-</details>
-
-## 🧭 Attribution
 
 
 
